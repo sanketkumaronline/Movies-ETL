@@ -39,8 +39,7 @@ Using your knowledge of Python, Pandas, the ETL process, and code refactoring, e
 
 **The wiki_movies_df Column List Screenshot**
 
-
-![wiki_movies_df1_list](./Images/wiki_movies_df1_list.png)
+  ![wiki_movies_df1_list](./Images/wiki_movies_df1_list.png)
 
 ### Deliverable 3: Extract and Transform the Kaggle Data 
 We have to extract and transform the Kaggle metadata and MovieLens rating data, then convert the transformed data into separate DataFrames. Then, we’ll merge the Kaggle metadata DataFrame with the Wikipedia movies DataFrame to create the *movies_df* DataFrame. Finally, we’ll merge the MovieLens rating data DataFrame with the movies_df DataFrame to create the *movies_with_ratings_df*. 
