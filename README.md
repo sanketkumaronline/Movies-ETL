@@ -39,6 +39,7 @@ Using your knowledge of Python, Pandas, the ETL process, and code refactoring, e
 
 **The wiki_movies_df Column List Screenshot**
 
+
 ![wiki_movies_df1_list](./Images/wiki_movies_df1_list.png)
 
 ### Deliverable 3: Extract and Transform the Kaggle Data 
