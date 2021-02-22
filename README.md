@@ -29,7 +29,8 @@ This involves using our knowledge of Python, Pandas, the ETL process, and code r
 ![kaggle_metadata](./Images/kaggle_metadata.png)
 
 **The ratings DataFrame Screenshot**
-![ratings](./Images/ratings.png)
+
+ ![ratings](./Images/ratings.png)
 
 ### Deliverable 2: Extract and Transform the Wikipedia Data
 Using your knowledge of Python, Pandas, the ETL process, and code refactoring, extract and transform the Wikipedia data so you can merge it with the Kaggle metadata.
