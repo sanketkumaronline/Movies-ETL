@@ -57,7 +57,9 @@ The wiki_movies_df screenshot will remain same as in previous step.
 Add the movies_df DataFrame and MovieLens rating CSV data to a SQL database.
 
 **Row count for 'movies' table**
-![movies_query](./Resources/movies_query.png)
+
+ ![movies_query](./Resources/movies_query.png)
 
 **Row count for 'ratings' table**
-![ratings_query](./Resources/ratings_query.png)
+
+ ![ratings_query](./Resources/ratings_query.png)
